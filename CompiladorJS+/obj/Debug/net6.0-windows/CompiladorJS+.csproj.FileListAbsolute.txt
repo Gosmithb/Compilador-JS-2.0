@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\bin\Debug\net6.0-windows\CompiladorJS+.exe
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\bin\Debug\net6.0-windows\CompiladorJS+.deps.json
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\bin\Debug\net6.0-windows\CompiladorJS+.runtimeconfig.json
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\bin\Debug\net6.0-windows\CompiladorJS+.dll
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\bin\Debug\net6.0-windows\CompiladorJS+.pdb
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS_.Form1.resources
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.dll
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\refint\CompiladorJS+.dll
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.pdb
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\CompiladorJS+.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CompiladorJS+\CompiladorJS+\obj\Debug\net6.0-windows\ref\CompiladorJS+.dll
